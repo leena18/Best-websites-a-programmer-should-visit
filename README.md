@@ -523,6 +523,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [Arsh Goyal](https://www.youtube.com/c/ArshGoyal): Latest updates about interships openings.
+- [Dennis Ivy](https://www.youtube.com/c/DennisIvy): Project based tutorials for Full Stack Web development with major focus on Python, Django & javascript.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -826,6 +828,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
 - [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
+- [Instant English](https://www.youtube.com/c/InstantEnglishuk) : Best youtube channel to master english in no time.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -850,6 +853,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
+- [Half as Interesting](https://www.youtube.com/c/halfasinteresting) : Videos sharing super interesting information that super easily explained about current and uncommon matters around the world
+- [Think School](https://www.youtube.com/c/ThinkSchool) : Best youtube channel for educational content in the best explaination possible
+- [WIRED](https://www.youtube.com/c/WIRED) : This channel provides videos about all the possible interesting topics and are explained age group wise.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
