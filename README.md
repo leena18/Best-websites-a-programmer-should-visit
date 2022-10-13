@@ -713,6 +713,15 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## DSA resources 
+- [DSA Sheet by Arsh (45 Days Plan)](https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit#gid=0) : SDE sheet for 45 days
+- [Complete C++ Placement DSA course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) : Free of cost full DSA course. 
+- [Data Structers and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) : Cousera DSA specialization course
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## Computer Books
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
